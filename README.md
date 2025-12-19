@@ -39,6 +39,15 @@ Interested in AI Agents, RAG, LLM Distillation, and Real-World AI Systems
 
 ---
 
+#### 🔹 PersonaReflect — Multi-Agent Self-Reflection Coach (HackDuke 2025)
+- Built a full-stack **multi-agent system** using Google ADK to provide diverse perspectives via specialized AI personas
+- Designed an orchestrator coordinating 4 agents with **15+ tools**, including real **Google Calendar OAuth integration**
+- Implemented a production-style pipeline with **FastAPI backend**, **React + TypeScript frontend**, and Dockerized deployment
+- Tech: Google ADK, Gemini, FastAPI, React, TypeScript, Docker
+- 🔗 https://github.com/yuancx2019/hackDuke2025
+
+---
+
 ### 🧠 Experience
 - ML Algorithm Engineer Intern @ Meituan
 - LLM Algorithm Engineer Intern @ Alibaba (Amap)

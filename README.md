@@ -15,7 +15,7 @@ Interested in Applied Machine Learning, LLM Systems, and RAG
 - **RAG Web Application**  
   End-to-end system for document ingestion, embedding, and QA  
   Tech: FastAPI, LangChain, Chroma, React  
-  👉 [Repo link]
+  <!-- 👉 [Repo link] -->
 
 - **Multilingual Text Matching System (Meituan)**  
   Improved precision from 91.2% → 97.34% via LLM distillation  

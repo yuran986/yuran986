@@ -30,6 +30,6 @@ Interested in Applied Machine Learning, LLM Systems, and RAG
 ---
 
 ### 🔗 Links
-- [Resume](#)
+- [Resume](https://github.com/yuran986/yuran986/blob/main/Yingjie_Zhang_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/yingjie-zhang-8405b4359)
 - [Email](mailto:yingjie.zhang@duke.edu)

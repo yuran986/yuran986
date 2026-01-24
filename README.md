@@ -55,8 +55,8 @@ Interested in AI Agents, RAG, LLM Distillation, and Real-World AI Systems
 ---
 
 ### 📄 Publications
-- ICASSP 2026 (Under Review)
-- IEEE BIBM 2024
+- ICASSP 2026: Large-Scale EEG Models for Meditation State Recognition: A Benchmark Study
+- IEEE BIBM 2024: Addressing Temporal and Auditory Factors in Meditative EEG with Self-Supervised Learning
 
 ---
 

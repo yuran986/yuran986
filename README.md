@@ -22,14 +22,6 @@ Interested in AI Agents, RAG, LLM Distillation, and Real-World AI Systems
 
 ---
 
-#### 🔹 RAG Web Application (End-to-End System)
-- Designing a full-stack RAG system for user-uploaded documents
-- Implemented backend services for document ingestion, embedding, and retrieval
-- Tech: FastAPI, LangChain, Chroma, Python, React
-- 🔗 *Repo coming soon*
-
----
-
 #### 🔹 Knowledge Distillation for Whisper (Chinese ASR)
 - Applied knowledge distillation to compress OpenAI’s Whisper model
 - Reduced decoder layers from **12 → 2** while maintaining performance

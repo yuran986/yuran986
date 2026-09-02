@@ -1,8 +1,14 @@
 ## Hi, I'm Yingjie (Ellen) Zhang 👋
 
-I'm an M.S. student in Computer Science at Duke University, with a B.Eng. in Computer Science from Shanghai Jiao Tong University. I build practical machine learning systems across ranking, AI agents, and LLM/agent post-training.
+I'm an M.S. student in Computer Science at Duke University, with a B.Eng. in Computer Science from Shanghai Jiao Tong University. I build production-oriented machine learning and software systems across ranking, agentic RAG, AI agents, and LLM post-training.
 
 ### 🚀 Selected Projects
+
+#### [Agentic RAG System](https://github.com/yuran986/agentic-rag)
+
+- Built a modular RAG backend with document ingestion, query planning, multi-query retrieval, and citation-aware generation.
+- Implemented rule-based, LLM-based, and hybrid planners with ChromaDB/FAISS vector search and Gemini/OpenAI-compatible model providers.
+- Exposed indexing, querying, and corpus statistics through FastAPI, with offline tests and evaluation scaffolding for retrieval and groundedness.
 
 #### [Long-Horizon LLM Agent Post-Training for ARC-AGI-3](https://github.com/yuran986/arc-agi-3-agent-post-training)
 
@@ -16,11 +22,11 @@ I'm an M.S. student in Computer Science at Duke University, with a B.Eng. in Com
 - Reduced parameters by **39.09%**, accelerated inference by **2.89×**, and improved average CER by **3.16%** across Common Voice, FLEURS, and AISHELL.
 - Includes the complete pseudo-labeling, distillation, fine-tuning, and evaluation pipeline.
 
-#### [PersonaReflect — Multi-Agent Self-Reflection Coach](https://github.com/yuancx2019/hackDuke2025)
+#### [PersonaReflect — Multi-Agent Self-Reflection Coach](https://github.com/yuancx2025/persona_reflect)
 
-- Built a full-stack multi-agent system with Google ADK that provides diverse perspectives through specialized AI personas.
-- Designed an orchestrator coordinating 4 agents and 15+ tools, including Google Calendar OAuth integration.
-- Developed with FastAPI, React, TypeScript, and Docker for HackDuke 2025.
+- Co-developed a full-stack reflection application with Google ADK, FastAPI, React, TypeScript, and Docker for HackDuke 2025.
+- Implemented React and TypeScript interaction flows for journal input, suggested actions, and emotion visualization.
+- The team system coordinates 4 specialized AI personas and 15+ tools, including Google Calendar integration.
 
 ### 💼 Experience
 
@@ -36,7 +42,7 @@ I'm an M.S. student in Computer Science at Duke University, with a B.Eng. in Com
 ### 🛠️ Technical Toolkit
 
 - **ML & LLM:** PyTorch, TensorFlow, Hugging Face, GRPO, SFT, knowledge distillation, ranking, mixture-of-experts
-- **Systems & Tools:** Python, C/C++, SQL, TypeScript, FastAPI, vLLM, FSDP, AutoGen, Docker, Linux, Git
+- **Software & Systems:** Python, C/C++, SQL, TypeScript, FastAPI, React, REST APIs, ChromaDB, FAISS, Docker, Linux, Git
 
 ### 🔗 Connect
 
